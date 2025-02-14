@@ -6,7 +6,8 @@
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
 
 ## Tool used :
-Microsoft Excel
+![image](https://github.com/user-attachments/assets/4892b92c-731e-49b7-a035-c0cc6283faee)
+
 
 ## Result and Insights :
 - I have noticed that the Revenue is continuously growing.
