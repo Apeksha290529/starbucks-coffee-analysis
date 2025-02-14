@@ -1,5 +1,5 @@
 # starbucks-coffee-analysis
-![Coffee Background Banner (4)](coffee mug.webp)
+![Coffee Background Banner (4)](coffeemug.webp)
 
 
 ## Overview : 
