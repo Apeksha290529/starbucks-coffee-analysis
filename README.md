@@ -1,4 +1,4 @@
-# starbucks-coffee-analysis
+# Starbucks-coffee-analysis
 ![Coffee Background Banner (4)](coffeemug.webp)
 
 
