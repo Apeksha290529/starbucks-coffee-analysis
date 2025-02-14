@@ -1,5 +1,6 @@
 # starbucks-coffee-analysis
-![Coffee Background Banner (4)](![images (2)](https://github.com/user-attachments/assets/16e8b8c7-f534-4d27-9561-a50c0a2b32d1)
+![Coffee Background Banner (4)](![images (2)](![depositphotos_227512496-stock-photo-cup-black-coffee-new-year](https://github.com/user-attachments/assets/291f0f5d-130f-4a10-9e8d-e2569c5027bb)
+)
 )
 
 ## Overview : 
