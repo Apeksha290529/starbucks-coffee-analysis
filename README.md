@@ -1,6 +1,5 @@
 # starbucks-coffee-analysis
-![Coffee Background Banner (4)](![images (2)](![depositphotos_227512496-stock-photo-cup-black-coffee-new-year](https://github.com/user-attachments/assets/47d4f375-aa45-4f89-9082-3fbb1dd7c3f1)
-
+![Coffee Background Banner (4)](smeeling-coffee-beans_900x_5148e663-e441-4642-af81-ade43296e6b5_900x.jpg)
 
 
 ## Overview : 
