@@ -1,7 +1,7 @@
 # starbucks-coffee-analysis
-![Coffee Background Banner (4)](![images (2)](![depositphotos_227512496-stock-photo-cup-black-coffee-new-year](https://github.com/user-attachments/assets/291f0f5d-130f-4a10-9e8d-e2569c5027bb)
-)
-)
+![Coffee Background Banner (4)](![images (2)](![depositphotos_227512496-stock-photo-cup-black-coffee-new-year](https://github.com/user-attachments/assets/47d4f375-aa45-4f89-9082-3fbb1dd7c3f1)
+
+
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
